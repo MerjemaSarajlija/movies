@@ -1,0 +1,6 @@
+.flexItem{
+    display: flex;
+    width: 45%;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
